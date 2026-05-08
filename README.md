@@ -37,9 +37,10 @@ This project solves the challenge of finding the cheapest fuel stations along a 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Arpita313/fuel-stop-planner.git
    cd fuel-stop-planner
 
 <p align="center">
+ Final Output at Postman
   <img src="./screenshots/postman_result.png" width="600" title="API Test Result">
 </p>
